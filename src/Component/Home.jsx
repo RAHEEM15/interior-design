@@ -39,9 +39,6 @@ function Home() {
                                                 <a class="nav-link active" href="#service">Survice</a>
                                             </li>
                                             
-                                            <li class="nav-item">
-                                                <a class="nav-link active" href="#">Gallery</a>
-                                            </li>
                                             
                                             <li class="nav-item">
                                                 <a class="nav-link active" href="#contact">Contacts</a>

@@ -12,7 +12,7 @@ function About() {
             <div className='sub-about'>
             <p>Our professional service</p>
             <h1>We Will Create a Modern And First Class Interior</h1><br/>
-            <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium similique ea magnam ipsum vel eaque id amet, eligendi hic minima veniam consequuntur eveniet sapiente assumenda reiciendis dolorum perspiciatis. Nisi, excepturi!</h5>
+            {/* <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium similique ea magnam ipsum vel eaque id amet, eligendi hic minima veniam consequuntur eveniet sapiente assumenda reiciendis dolorum perspiciatis. Nisi, excepturi!</h5> */}
             <br/>
             {/* <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium similique ea magnam ipsum vel eaque inpm rund amet, eligendi hic minima veniam consequuntur eveniet sapiente assumenda reiciendis dolorum perspiciatis. Nisi, excepturi!</h5> */}
             </div>

@@ -14,7 +14,7 @@
 .about{
     position: relative;
     margin-top: -300px;
-    display: flex;
+    
     color: white;
     
     text-align: center;
@@ -30,8 +30,7 @@
         height: 70vh;
     }
     .about{
-        width: 70%;
-        height: 65vh;
+        text-align: center;
         background: transparent;
         
     }
