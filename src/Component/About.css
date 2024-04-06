@@ -30,17 +30,21 @@
 
 @media only screen and (max-width: 600px){
 
-    *{
-        margin-top: 200px;
+    .body{
+        margin-top: 300px;
+        padding-top: 50px;
+    }
+    .img{
+        height: 70vh;
     }
     .about{
         width: 70%;
-        height: 70vh;
+        height: 65vh;
         background-color:rgb(242, 209, 192);
         border-color: black;
        position:absolute;
-       margin-left: 100px;
-       margin-top: 10px;
+       margin-left: 170px;
+       margin-top: -300px;
     }
 
     .sub-about{

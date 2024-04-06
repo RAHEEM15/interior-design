@@ -2,6 +2,8 @@ import React from 'react';
 import './Home.css';
 // import './Home.js';
 import img1 from '/React/home-interior/src/assert/7.jpg';
+import img2 from '/React/home-interior/src/assert/17.jpg';
+import img3 from '/React/home-interior/src/assert/2.jpg';
 // import img2 from '/React/home-interior/src/assert/4.jpg';
 // import img3 from '/React/home-interior/src/assert/3.jpg';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -64,10 +66,10 @@ function Home() {
                                 <img src={img1} class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src={img1} class="d-block w-100" alt="..." />
+                                <img src={img2} class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src={img1} class="d-block w-100" alt="..." />
+                                <img src={img3} class="d-block w-100" alt="..." />
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

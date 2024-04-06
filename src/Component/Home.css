@@ -46,3 +46,12 @@
     align-items: center;
     justify-content: center;
 }
+
+
+@media(min-width:300px)and(max-width:600px){
+.navbar-toggler-icon{
+    position: relative;
+    left: 100px;
+    
+}
+}
