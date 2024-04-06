@@ -40,11 +40,11 @@
     .about{
         width: 70%;
         height: 65vh;
-        background-color:rgb(242, 209, 192);
-        border-color: black;
-       position:absolute;
-       margin-left: 170px;
-       margin-top: -300px;
+        background: transparent;
+        
+        color: white;
+       position: absolute;
+       margin-left: 90px;
     }
 
     .sub-about{
