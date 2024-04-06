@@ -1,0 +1,91 @@
+#contact{
+    margin-top: 70px;
+}
+.contact-left{
+    flex-basis: 35%;
+}
+
+.contact-right{
+    flex-basis: 60%;
+}
+.socialicon i{
+    color: #ababab;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-right: 15px;
+    transition: transform 0.5s;
+    
+    
+}
+
+.contact-left p{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-right: 15px;
+    /* display: inline-block; */
+}
+
+.socialicon i:hover{
+    color: #e28c37;
+    transform:  translateY(-5px );
+}
+.btn{
+    width: 130px;
+    height: 40px;
+    margin-top: 20px;
+    display: inline-block;
+    /* background-color: #e28c37; */
+    /* color: white; */
+    transition: transform 0.5s;
+    border-radius: 5px;
+    border: black 2px;
+}
+
+.btn:hover{
+    background-color:red;
+    color: white;
+    transform:  translateY(-5px );
+}
+
+.contact-right form{
+    width: 100%;
+}
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    background: #262626;
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 18px; 
+    border-radius: 20px;
+}
+
+.btn1{
+    width: 80px;
+    height: 40px;
+    margin-top: 2px;
+    display: inline-block;
+    /* background-color: #e28c37; */
+    /* color: white; */
+    transition: transform 0.5s;
+    border-radius: 5px;
+}
+
+.btn1:hover{
+    background-color:red;
+    color: white;
+    transform:  translateY(-5px );
+}
+
+
+#topic1{
+    color: red;
+    font-size: 70px;
+    font-weight: 700;
+    margin-left: -5px;
+}
+#topic2{
+    font-size: 50px;
+    font-weight: 600;
+}
