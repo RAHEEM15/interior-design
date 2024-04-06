@@ -1,5 +1,6 @@
 .body{
-    margin-top: 250px;
+    margin-top: 200px;
+    padding-top: 50px;
     /* padding: 0; */
     box-sizing: border-box;
 }
@@ -10,25 +11,16 @@
     height: 100vh;
     z-index: 0;
 }
-
 .about{
-    width: 50%;
-    height: 85vh;
-    background-color:rgb(242, 209, 192);
-    border-color: black;
-    margin-left: 650px;
-    margin-top: -500px;
-    position: absolute;
-    z-index: 1;
-    border-radius: 20px;
+    position: relative;
+    margin-top: -300px;
+    display: flex;
+    color: white;
     
+    text-align: center;
 }
 
-.sub-about{
-    margin: 50px;
-}
-
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 500px){
 
     .body{
         margin-top: 300px;
@@ -42,9 +34,6 @@
         height: 65vh;
         background: transparent;
         
-        color: white;
-       position: absolute;
-       margin-left: 90px;
     }
 
     .sub-about{
